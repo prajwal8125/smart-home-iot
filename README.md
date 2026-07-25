@@ -2,7 +2,7 @@
 
 A Smart Home Automation System built using **ESP8266 NodeMCU**, **Firebase Realtime Database**, and an **Android application**. This project enables users to remotely control home appliances over the internet while also supporting manual physical switch control.
 
----
+---____
 
 # 📱 Features
 
