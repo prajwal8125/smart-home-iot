@@ -14,7 +14,7 @@ A Smart Home Automation System built using **ESP8266 NodeMCU**, **Firebase Realt
 - 🌐 Control appliances from anywhere with internet access
 - ⚡ Low-cost and energy-efficient solution
 
----
+---b
 
 # 🚀 Technologies Used
 
